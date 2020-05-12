@@ -1,0 +1,25 @@
+{
+  "name": "stargamification",
+  "version": "1.0.0",
+  "description": "This is a Independent pluggable gamification service",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openStar99/Gamification.git"
+  },
+  "keywords": [
+    "npm",
+    "gamification",
+    "game",
+    "pluggable"
+  ],
+  "author": "star heng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openStar99/Gamification/issues"
+  },
+  "homepage": "https://github.com/openStar99/Gamification#readme"
+}
